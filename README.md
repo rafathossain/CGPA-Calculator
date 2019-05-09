@@ -19,7 +19,7 @@
 
 <p align="center">
     This CGPA Calculator is a web based application made with bootstrap, javascript and jquery.
-    <br>Demo URL: https://rafat.me/mycgpa
+    <br>Demo URL: https://rafat.me/mycgpa<br>or<br>https://rafathossain96.github.io/CGPA-Calculator/
 </p>
 
 <p align="center">
