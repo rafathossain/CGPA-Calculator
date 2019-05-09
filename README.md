@@ -33,7 +33,7 @@
     <br>
     <p align="center">
         <a href="mailto:sayhi@rafat.me" target="_blank"><img
-                src="https://icons.iconarchive.com/icons/iconsmind/outline/256/Envelope-icon.png" width="20px"
+                src="https://image.flaticon.com/icons/svg/59/59965.svg" width="20px"
                 style="padding: 10px"></a>
         <a href="https://www.facebook.com/rafat.hossain.12" target="_blank"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/1024px-Facebook_icon_2013.svg.png"
@@ -51,10 +51,8 @@
                 src="https://image.flaticon.com/icons/svg/25/25231.svg" width="20px" style="padding: 10px"></a>
         <a href="https://gitlab.com/rafathossain96" target="_blank"><img
                 src="https://img.icons8.com/color/420/gitlab.png" width="20px" style="padding: 10px"></a>
+</p>
 
-
-    </p>
-
-    <p align="center">
-        <small>For any queries, reach me at <a href="mailto:sayhi@rafat.me">sayhi@rafat.me</a></small>
-    </p>
+<p align="center">
+    <small>For any queries, reach me at <a href="mailto:sayhi@rafat.me">sayhi@rafat.me</a></small>
+</p>
