@@ -51,10 +51,8 @@
                 src="https://image.flaticon.com/icons/svg/25/25231.svg" width="20px" style="padding: 10px"></a>
         <a href="https://gitlab.com/rafathossain96" target="_blank"><img
                 src="https://img.icons8.com/color/420/gitlab.png" width="20px" style="padding: 10px"></a>
+</p>
 
-
-    </p>
-
-    <p align="center">
-        <small>For any queries, reach me at <a href="mailto:sayhi@rafat.me">sayhi@rafat.me</a></small>
-    </p>
+<p align="center">
+    <small>For any queries, reach me at <a href="mailto:sayhi@rafat.me">sayhi@rafat.me</a></small>
+</p>
